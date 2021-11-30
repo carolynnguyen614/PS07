@@ -24,7 +24,6 @@ library(gapminder)
 gapminder_2007 <- gapminder %>% 
   filter(year == 2007)
 ```
-
 ## Gapminder Plot
 
 And here is a scatterplot graph made with the dataframe above :
